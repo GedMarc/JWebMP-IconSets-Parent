@@ -1,0 +1,21 @@
+[submodule "FontAwesome"]
+	path = FontAwesome
+	url = https://github.com/GedMarc/JWebMP-FontAwesome5Plugin.git
+[submodule "MaterialDesignIcons"]
+	path = MaterialDesignIcons
+	url = https://github.com/GedMarc/JWebMP-MaterialDesignIconsPlugin.git
+[submodule "MaterialIcons"]
+	path = MaterialIcons
+	url = https://github.com/GedMarc/JWebMP-MaterialIconsPlugin.git
+[submodule "ThemifyIcons"]
+	path = ThemifyIcons
+	url = https://github.com/GedMarc/JWebMP-Themify-Icons.git
+[submodule "WeatherIcons"]
+	path = WeatherIcons
+	url = https://github.com/GedMarc/JWebMP-WeatherIcons.git
+[submodule "Skycons"]
+	path = Skycons
+	url = https://github.com/GedMarc/JWebMP-Skycons.git
+[submodule "Glyphicons"]
+	path = Glyphicons
+	url = https://github.com/GedMarc/JWebMP-GlyphiconsPlugin.git
