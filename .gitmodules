@@ -26,3 +26,6 @@
 	path = Glyphicons
 	url = https://github.com/GedMarc/JWebMP-GlyphiconsPlugin.git
 	ignore=dirty
+[submodule "FontAwesome5Pro"]
+	path = FontAwesome5Pro
+	url = https://github.com/GedMarc/JWebMP-FontAwesome5Pro.git
